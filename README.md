@@ -28,3 +28,4 @@ Sketch UI/Sketch 设计
 </div>
 License/声明
 -------
+MIT
