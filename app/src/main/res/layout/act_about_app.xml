@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/layout_title"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:scrollbars="vertical"
+        android:text="1、本软件为科举专用版本。包含查题、做题、错题练习、模拟科举功能\n\n2、希望通过本软件，大家都能成为进士，感谢使用本软件的朋友，你们的使用就是我开发的动力\n\n3、因为个人精力有限！模拟科举考试(20题)、殿试(10题)的功能将会在后期版本添加\n\n4、目前收录科举题目1163道,基本包含了98%以上的题目\n\n5、题库收录，答案校对，软件策划，界面设计，软件开发，都由作者独自完成，由于工作量巨大,还请少侠们可以点击一下答题时出现的广告支持一下哦(虽然出现的概率调成了1% /(ㄒoㄒ)/~~)。\n\n6、一些经验:科举时快接近考官时多按动作ctrl+1站立，可以解决延迟导致的坐标不对的情况，大约14.45分左右会刷出3个长安城随机坐标的大学士，答完月光定李世民第一名5个大五宝；进士取服务器前20，多做几次练习和错题就很容易获得了一般8分20就能进；殿试靠得是运气以及看答案就能选出答案的水平，取前3\n\n7、好了,加油取得金榜状元吧O(∩_∩)O~~"
+        android:textSize="16sp"/>
+</LinearLayout>
